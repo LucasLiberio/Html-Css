@@ -3,4 +3,4 @@
 
 Estou aprendento sobre repositorios!!!
 
-<a href="file:///D:/Documentos/Site/Html-Css/Exercicios/00/site-basico.html" target="_blank">Html</a>
+<a href="file:///D:/Documentos/Site/Html-Css/Exercicios/00/site-basico.html">Html</a>
